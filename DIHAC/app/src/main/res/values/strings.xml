@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DIHAC</string>
+    <string name="title_activity_quizz">quizz</string>
 </resources>
